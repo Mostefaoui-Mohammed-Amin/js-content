@@ -1,0 +1,5 @@
+let array = Array(1,5,9)
+let array2 = Array.of(5)
+let array3 = Array.from({length:10},(e,i)=>{i})
+let array4 = Array.from("khalil")
+console.log(array4)
